@@ -1,5 +1,7 @@
+![MasterHead](https://www.skwigly.co.uk/wp-content/uploads/2017/02/march2017.gif) 
 <h1 align="center">Hi 👋, I'm Avinash Parab</h1>
 <h3 align="center">A passionate Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashparab99&label=Profile%20views&color=0e75b6&style=flat" alt="avinashparab99" /> </p>
 

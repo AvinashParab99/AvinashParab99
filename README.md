@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashparab99&label=Profile%20views&color=0e75b6&style=flat" alt="avinashparab99" /> </p>
 
-- 👨‍💻 My Personal Website is [https://hellobuddy12.000webhostapp.com/](https://hellobuddy12.000webhostapp.com/)
+- 👨‍💻 My Personal Website is [https://avinashparab99.github.io/Portfolio/](https://avinashparab99.github.io/Portfolio/)
 
 - 📫 How to reach me **avinashparab99@gmail.com**
 
